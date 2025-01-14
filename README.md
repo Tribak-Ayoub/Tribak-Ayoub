@@ -1,4 +1,4 @@
-# Tribak77
+# Tribak-Ayoub
 Config files for my GitHub profile.
 # Hi there 👋, I'm TRIBAK Ayoub!
 
