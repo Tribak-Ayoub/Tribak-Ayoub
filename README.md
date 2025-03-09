@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I specialize in crafting robust, scalable web appl
 ## 💬 Let’s Collaborate
 I'm always open to sharing insights or discussing:
 - Laravel and PHP
-- Frontend frameworks like Vue.js or React
+- Frontend frameworks like Vue.js
 - Database design with MySQL and SQL optimization
 - Agile methodologies and Scrum practices  
 
@@ -39,5 +39,6 @@ If you're working on an exciting idea, let's connect and create something impact
 ---
 
 ## 📫 Let's Connect
+- 🌐 **Portfolio**: [tribak-ayoub](https://ayoub-tribak.vercel.app) 
 - 📧 **Email**: [tribak.elyedri.ayoub@gmail.com](mailto:tribak.elyedri.ayoub@gmail.com)  
 - 💼 **LinkedIn**: [Ayoub Tribak El Yedri](https://www.linkedin.com/in/ayoub-tribak-el-yedri-064101229/)  
