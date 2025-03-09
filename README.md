@@ -39,6 +39,6 @@ If you're working on an exciting idea, let's connect and create something impact
 ---
 
 ## 📫 Let's Connect
-- 🌐 **Portfolio**: [tribak-ayoub](https://ayoub-tribak.vercel.app) 
+- 🌐 **Portfolio**:  <a href="https://ayoub-tribak.vercel.app" target="_blank">tribak-ayoub</a>
 - 📧 **Email**: [tribak.elyedri.ayoub@gmail.com](mailto:tribak.elyedri.ayoub@gmail.com)  
 - 💼 **LinkedIn**: [Ayoub Tribak El Yedri](https://www.linkedin.com/in/ayoub-tribak-el-yedri-064101229/)  
