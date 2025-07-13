@@ -1,44 +1,51 @@
-# Hi there 👋, I'm TRIBAK Ayoub!
+# Hi there 👋, I'm TRIBAK EL YEDRI Ayoub!
 
 🌍 **Full Stack Developer | Problem-Solver**  
-Welcome to my GitHub profile! I specialize in crafting robust, scalable web applications with a focus on clean code and exceptional user experiences. I thrive on solving complex problems and collaborating on innovative projects.
+Welcome to my GitHub profile! I build scalable web apps and smart voice systems that combine clean architecture, powerful backend logic, and intuitive UIs. I enjoy solving real-world problems and collaborating on meaningful tech projects.
 
 ---
 
 ## 🔭 Current Projects
-- **I’m currently working on**:  
-  [SOLI LMS](https://github.com/Tribak-Ayoub/Project-fil-rouge) – A Learning Management System designed to enhance the education ecosystem by streamlining processes for learners, educators, and administrators.
+
+- 🎯 **AI-Powered Phone Lead Qualification System**  
+  Intelligent call routing and lead qualification using Asterisk, FastAPI (Python), Laravel, and Vue.js.  
+  [GitHub Repo](https://github.com/Tribak-Ayoub/AI-Voice-Assistant)
 
 ---
 
-## 🌱 Continuous Learning
-- **Expanding My Expertise In**:  
-  - Kotlin for mobile development  
-  - Advanced system design and architecture  
+## 🌱 Currently Learning
+
+- 🧠 Advanced voice application design (STT, intent detection, TTS)
+- ☁️ Deploying microservices & real-time systems
+- 🛠️ Advanced system design and architecture  
 
 ---
 
 ## 💬 Let’s Collaborate
-I'm always open to sharing insights or discussing:
-- Laravel and PHP
-- Frontend frameworks like Vue.js
-- Database design with MySQL and SQL optimization
-- Agile methodologies and Scrum practices  
 
-If you're working on an exciting idea, let's connect and create something impactful together!
+Always open to sharing and collaborating around:
+- 🧩 Laravel & PHP backend logic
+- 🎨 Vue.js frontends with TailwindCSS
+- 🧠 Python microservices for AI use cases
+- 📊 PostgreSQL/MySQL schema design & optimization
+- 📋 Agile/Scrum workflows in real projects
 
 ---
 
 ## 🛠️ Technical Skills
-- **Programming Languages**: PHP, JavaScript, HTML, CSS  
-- **Frameworks & Libraries**: Laravel, Vue.js, Bootstrap, Tailwind CSS  
-- **Databases**: SQL, MySQL  
-- **Development Tools**: Git, Visual Studio Code, Figma, MySQL Workbench  
-- **Project Management**: Scrum, Agile  
+
+- **Languages**: PHP, JavaScript, Python, HTML, CSS, SQL  
+- **Frameworks & Tools**: Laravel, Vue.js, TailwindCSS, FastAPI, Bootstrap  
+- **Databases**: MySQL, PostgreSQL  
+- **Other Tools**: Git, VS Code, Figma, MySQL Workbench, pgAdmin 
+- **Methodologies**: Agile, Scrum  
 
 ---
 
 ## 📫 Let's Connect
-- 🌐 **Portfolio**:  <a href="https://ayoub-tribak.vercel.app" target="_blank">tribak-ayoub</a>
+
+- 🌐 **Portfolio**: [tribak-ayoub.vercel.app](https://ayoub-tribak.vercel.app)
 - 📧 **Email**: [tribak.elyedri.ayoub@gmail.com](mailto:tribak.elyedri.ayoub@gmail.com)  
-- 💼 **LinkedIn**: [Ayoub Tribak El Yedri](https://www.linkedin.com/in/ayoub-tribak-el-yedri-064101229/)  
+- 💼 **LinkedIn**: [Ayoub Tribak El Yedri](https://www.linkedin.com/in/tribak-ayoub)
+
+---
